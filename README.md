@@ -14,4 +14,5 @@ It states:
 This can be simplified slightly since as soon as the number hits a power of 2 (i.e. 2^n), then it'll always 
 be even until it reaches 1.
 
-This program is just a fun program to run and test up to the precision of the computer used.
+This program is just a fun program to run and test up to the precision of the computer used. It also shows
+the largest value the loop reached.
